@@ -20,7 +20,7 @@ with a research focus on **Computer Vision-based Anomaly Detection**.
 ## 🎓 Education  
 - **M.S. in Smart Factory Convergence**, Sungkyunkwan University (2023 - Present)  
 
-- **B.A. in Public Administration**, Dankook University (2014 - 2021)  
+- **B.S. in Computer Software Engineering**, Dong Seoul University (2019 – 2024)  
 
 ---
 
