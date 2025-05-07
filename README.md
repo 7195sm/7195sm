@@ -29,10 +29,10 @@ with a research focus on **Computer Vision-based Anomaly Detection**.
 
 | Date        | Title & Topic |
 |------------|--------------|
-| **2024-02-18** | A Heatmap-Supplemented R-CNN Trained Using an Inflated IoU |
-| **2025-03-13** | ViGLAD_Vision_Graph_Neural_Networks_for_Logical_Anomaly_Detection |
-| **2025-03-31** | Joining Spatial Deformable Convolution and a Dense Feature Pyramid for Surface Defect Detection |
-| **2025-04-01** | GeneralAD Anomaly Detection Across Domains by Attending to Distorted Features |
+| **2024-02-18** | [A Heatmap-Supplemented R-CNN Trained Using an Inflated IoU](https://youtu.be/ml0iwBUP1nI?si=cTSgRqJmmqifp4vs) |
+| **2025-03-13** | [ViGLAD_Vision_Graph_Neural_Networks_for_Logical_Anomaly_Detection](https://youtu.be/Of8XFf9RIfw?si=rLUXqui8u-NRoBWW) |
+| **2025-03-31** | [Joining Spatial Deformable Convolution and a Dense Feature Pyramid for Surface Defect Detection](https://youtu.be/Ty34y847eVQ?si=Nj6i7SHSZI-zCt4Q) |
+| **2025-04-01** | [GeneralAD Anomaly Detection Across Domains by Attending to Distorted Features](https://youtu.be/9a1CD2cW23k?si=AaPlncLvKUE2kpGx) |
 
 ---
 
