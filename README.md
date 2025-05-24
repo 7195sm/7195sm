@@ -33,7 +33,7 @@ with a research focus on **Computer Vision-based Anomaly Detection**.
 | **2025-03-13** | [ViGLAD_Vision_Graph_Neural_Networks_for_Logical_Anomaly_Detection](https://youtu.be/Of8XFf9RIfw?si=rLUXqui8u-NRoBWW) |
 | **2025-03-31** | [Joining Spatial Deformable Convolution and a Dense Feature Pyramid for Surface Defect Detection](https://youtu.be/Ty34y847eVQ?si=Nj6i7SHSZI-zCt4Q) |
 | **2025-04-01** | [GeneralAD Anomaly Detection Across Domains by Attending to Distorted Features](https://youtu.be/9a1CD2cW23k?si=AaPlncLvKUE2kpGx) |
-| **2025-05-22** | [A convnet for 2020s]
+| **2025-05-22** | [A convnet for 2020s] |
 (https://www.youtube.com/watch?v=VbRo78soNJY) |
 ---
 
