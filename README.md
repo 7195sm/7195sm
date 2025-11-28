@@ -39,8 +39,7 @@ with a research focus on **Computer Vision-based Anomaly Detection**.
 | **2025-08-01** | [LLMFormer Large Language Model for Open Vocabulary Semantic Segmantation](https://youtu.be/24E99ko8yL0?si=2ocO2iQDtJU1oEDl) |
 | **2025-09-01** | [CALICO Part Focused Semantic Co Segmentation with Large Vision Language Models](https://youtu.be/KHC5xou1BMw?si=z7V3NERsdTTH6mJK) |
 | **2025-10-01** | [MDC Net multimodal defect captioning network for surface steel defects](https://www.youtube.com/watch?v=8EPgowcZlWM&t) |
-| **2025-11-01** | [LLM-Seg Bridging Image Segmentation and Large Language Model Reasoning
-](https://www.youtube.com/watch?v=cQXfyQMI3GM&t) |
+| **2025-11-01** | [LLM-Seg Bridging Image Segmentation and Large Language Model Reasoning](https://www.youtube.com/watch?v=cQXfyQMI3GM&t) |
 ---
 
 ## 🔧 Skills  
