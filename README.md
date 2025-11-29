@@ -42,6 +42,15 @@ with a research focus on **Computer Vision-based Anomaly Detection**.
 | **2025-11-01** | [LLM-Seg Bridging Image Segmentation and Large Language Model Reasoning](https://www.youtube.com/watch?v=cQXfyQMI3GM&t) |
 ---
 
+
+## 💡 Intellectual Property
+
+### Program Registrations
+- 다중 특징 융합을 이용한 산업용 결함 탐지 프로그램
+  - 등록 번호: C-2025-021286
+  - 설명: 공통된 입력 이미지를 상이한 CNN과 ViT 특징 추출기에 입력하고, 두 특징을 융합하여 상호 보완한 특징을 활용한 산업용 미세 결함 탐지 프르그렘.
+---
+
 ## 🔧 Skills  
 
 ### **Programming & Frameworks**  
