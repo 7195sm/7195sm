@@ -42,14 +42,13 @@ with a research focus on **Computer Vision-based Anomaly Detection**.
 | **2025-11-01** | [LLM-Seg Bridging Image Segmentation and Large Language Model Reasoning](https://www.youtube.com/watch?v=g5_2jOM_xWY&t=1271s) |
 | **2025-12-01** | [Siamese network with change awareness for surface defect segmentation](https://www.youtube.com/watch?v=fvdvVh80VIc&t=356s) |
 | **2026-01-01**| [https://www.youtube.com/watch?v=g5_2jOM_xWY](https://www.youtube.com/watch?v=VEs4c8H1_PY&t=664s)|
-| **2026-02-01**| [PartGLEE: A Foundation Model for Recognizing and Parsing Any Objects](https://www.youtube.com/watch?v=b2VeBLgdOX4&t=6s)|
+| **2026-02-01**| [PartGLEE: A Foundation Model for Recognizing and Parsing Any Objects](https://www.youtube.com/watch?v=b2VeBLgdOX4&t=6s) |
 | **2026-02-15**| [https://www.youtube.com/watch?v=b2VeBLgdOX4&t=6s](https://www.youtube.com/watch?v=LnkIjGO6iso&t=2s)|
-| **2026-03-01**| [Personalizing Vision-Language Models With Hybrid Prompts for Zero-Shot Anomaly Detection
-](https://www.youtube.com/watch?v=-254vUKa4Mw&t=166s)|
+| **2026-03-01**| [Personalizing Vision-Language Models With Hybrid Prompts for Zero-Shot Anomaly Detection](https://www.youtube.com/watch?v=-254vUKa4Mw&t=166s) |
 | **2026-04-01**| [Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model
-](https://www.youtube.com/watch?v=hH7i9sr37LA)|
+](https://www.youtube.com/watch?v=hH7i9sr37LA) |
 | **2026-05-01**| [PartDistill: 3D Shape Part Segmentation by Vision-Language Model Distillation
-](https://www.youtube.com/watch?v=gvQNjFNWvYA)|
+](https://www.youtube.com/watch?v=gvQNjFNWvYA) |
 ---
 
 
