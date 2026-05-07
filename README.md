@@ -45,10 +45,8 @@ with a research focus on **Computer Vision-based Anomaly Detection**.
 | **2026-02-01**| [PartGLEE: A Foundation Model for Recognizing and Parsing Any Objects](https://www.youtube.com/watch?v=b2VeBLgdOX4&t=6s) |
 | **2026-02-15**| [https://www.youtube.com/watch?v=b2VeBLgdOX4&t=6s](https://www.youtube.com/watch?v=LnkIjGO6iso&t=2s)|
 | **2026-03-01**| [Personalizing Vision-Language Models With Hybrid Prompts for Zero-Shot Anomaly Detection](https://www.youtube.com/watch?v=-254vUKa4Mw&t=166s) |
-| **2026-04-01**| [Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model
-](https://www.youtube.com/watch?v=hH7i9sr37LA) |
-| **2026-05-01**| [PartDistill: 3D Shape Part Segmentation by Vision-Language Model Distillation
-](https://www.youtube.com/watch?v=gvQNjFNWvYA) |
+| **2026-04-01**| [Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model](https://www.youtube.com/watch?v=hH7i9sr37LA) |
+| **2026-05-01**| [PartDistill: 3D Shape Part Segmentation by Vision-Language Model Distillation](https://www.youtube.com/watch?v=gvQNjFNWvYA) |
 ---
 
 
