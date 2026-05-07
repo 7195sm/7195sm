@@ -62,11 +62,11 @@ with a research focus on **Computer Vision-based Anomaly Detection**.
   📕 **Annual Conference of KIPS**, 2024
   
 - Jihwan Jun, Tae-Yong Kim, Jieun Lee, Taeheon Jin, **Seungmin Park**, Jongpil Jeong \
-  📌 * AI and IoT-based Automated Camera Maintenance System: A Study of Improving Production Efficiency and Safety through Predictive Maintenance*  \
+  📌 *AI and IoT-based Automated Camera Maintenance System: A Study of Improving Production Efficiency and Safety through Predictive Maintenance*  \
   📕 **29th International Conference on Circuits, Systems, Communications and Computers**, 2025)  
 
 - **Seungmin Park**, Kyuri Kim, Jongpil Jeong \
-  📌 * PartDefSeg: Part-Aware Defect Reasoning Segmentation via Large Language Modelt*  \
+  📌 *PartDefSeg: Part-Aware Defect Reasoning Segmentation via Large Language Model*  \
   📕 **The 19th European Conference on Computer Vision - ECCV 2026**, 2026 (Submitted)  
 
 ### 📄 **Journal Papers**  
