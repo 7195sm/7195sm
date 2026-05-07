@@ -50,6 +50,33 @@ with a research focus on **Computer Vision-based Anomaly Detection**.
 ---
 
 
+## 🏆 Publications & Patents  
+
+### 📄 **Conference Papers**  
+- **Seungmin Park**, Jang-Won Suh \
+  📌 *Research on the implementation of real-time video instance segmentation of customized YOLOv9 using transfer learning in a Raspberry Pi 5 and Edge TPU Accelerator Environment*  \
+  📕 **Annual Conference of KIPS**, 2024  
+
+- **Seungmin Park**, Du-Sang Kim \
+  📌 *Research on the implementation of real-time video instance segmentation of customized YOLOv9 using transfer learning in a Raspberry Pi 5 and Edge TPU Accelerator Environment*  \
+  📕 **Annual Conference of KIPS**, 2024
+  
+- Jihwan Jun, Tae-Yong Kim, Jieun Lee, Taeheon Jin, **Seungmin Park**, Jongpil Jeong \
+  📌 * AI and IoT-based Automated Camera Maintenance System: A Study of Improving Production Efficiency and Safety through Predictive Maintenance*  \
+  📕 **29th International Conference on Circuits, Systems, Communications and Computers**, 2025)  
+
+- **Seungmin Park**, Kyuri Kim, Jongpil Jeong \
+  📌 * PartDefSeg: Part-Aware Defect Reasoning Segmentation via Large Language Modelt*  \
+  📕 **The 19th European Conference on Computer Vision - ECCV 2026**, 2026 (Submitted)  
+
+### 📄 **Journal Papers**  
+- **SeungMin Park**, SangJun Kim, DongHo Lim, YoungEun Ji, YoonSeo Cho, Jongpil Jeong \
+  📌 *Dual-FE-AD: Dual Feature Extractor-Based Anomaly Detection with ConvNeXt-ViT in Steel Manufacturing*  \
+  📕 **Heliyon**, 2025 (Submitted)
+
+---
+
+
 ## 💡 Intellectual Property
 
 ### Program Registrations
