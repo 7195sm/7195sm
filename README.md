@@ -47,6 +47,10 @@ with a research focus on **Computer Vision-based Anomaly Detection**.
 | **2026-03-01**| [Personalizing Vision-Language Models With Hybrid Prompts for Zero-Shot Anomaly Detection](https://www.youtube.com/watch?v=-254vUKa4Mw&t=166s) |
 | **2026-04-01**| [Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model](https://www.youtube.com/watch?v=hH7i9sr37LA) |
 | **2026-05-01**| [PartDistill: 3D Shape Part Segmentation by Vision-Language Model Distillation](https://www.youtube.com/watch?v=gvQNjFNWvYA) |
+| **2026-06-01**| [GS-CLIP: Zero-shot 3D Anomaly Detection by Geometry-Aware Prompt and Synergistic View Representation](https://www.youtube.com/watch?v=gvQNjFNWvYA](https://www.youtube.com/watch?v=aTx93Qz9d9k) |
+| **2026-07-01**| [
+VLMDiff: Leveraging Vision-Language Models for Multi-Class Anomaly Detection with Diffusion](https://www.youtube.com/watch?v=gvQNjFNWvYA](https://www.youtube.com/watch?v=aTx93Qz9d9k](https://www.youtube.com/watch?v=Mp9H9rD68wY) |
+| **2026-08-01**| [Sea-CLIP: Mining Semantic-Aware Representations for Few-Shot Anomaly Detection with CLIP](https://www.youtube.com/watch?v=gvQNjFNWvYA](https://www.youtube.com/watch?v=aTx93Qz9d9k](https://www.youtube.com/watch?v=krnsr2qiiGw)) |
 ---
 
 
